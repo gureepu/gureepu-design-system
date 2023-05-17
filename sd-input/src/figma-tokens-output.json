@@ -688,6 +688,10 @@
         "text": {
           "value": "{accent.onAccent}",
           "type": "color"
+        },
+        "new": {
+          "value": "{colors.blue.500}",
+          "type": "color"
         }
       },
       "borderRadius": {
