@@ -704,7 +704,7 @@
       },
       "hover": {
         "background": {
-          "value": "{colors.orange.700}",
+          "value": "{colors.orange.800}",
           "type": "color"
         },
         "text": {
