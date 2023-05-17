@@ -2,11 +2,11 @@
   "core": {
     "dimension": {
       "scale": {
-        "value": "2",
+        "value": "2px",
         "type": "dimension"
       },
       "xs": {
-        "value": "4",
+        "value": "4px",
         "type": "dimension"
       },
       "sm": {
@@ -56,15 +56,15 @@
     },
     "borderRadius": {
       "sm": {
-        "value": "4",
+        "value": "4px",
         "type": "borderRadius"
       },
       "lg": {
-        "value": "8",
+        "value": "8px",
         "type": "borderRadius"
       },
       "xl": {
-        "value": "16",
+        "value": "16px",
         "type": "borderRadius"
       },
       "multi-value": {
@@ -704,7 +704,7 @@
       },
       "hover": {
         "background": {
-          "value": "{colors.orange.700}",
+          "value": "{colors.orange.800}",
           "type": "color"
         },
         "text": {
