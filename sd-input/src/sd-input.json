@@ -8,6 +8,10 @@
       "text": {
         "value": "{accent.onAccent}",
         "type": "color"
+      },
+      "new": {
+        "value": "{colors.blue.500}",
+        "type": "color"
       }
     },
     "borderRadius": {
@@ -17,6 +21,16 @@
     "borderWidth": {
       "value": "{dimension.sm}",
       "type": "borderWidth"
+    },
+    "hover": {
+      "background": {
+        "value": "{colors.orange.700}",
+        "type": "color"
+      },
+      "text": {
+        "value": "{colors.orange.100}",
+        "type": "color"
+      }
     }
   },
   "card": {
