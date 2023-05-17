@@ -1,8 +1,8 @@
 .btn {
   background-color: var(--figma-button-primary-background);
   color: var(--figma-button-primary-text);
-  padding: 8px 24px 8px 24px;
-  border-radius: 8px;
+  padding: var(--figma-border-radius-lg) var(--figma-border-radius-xl);
+  border-radius: var(--figma-border-radius-lg);
   font-size: var(--figma-font-sizes-h6);
   border: none;
 }
