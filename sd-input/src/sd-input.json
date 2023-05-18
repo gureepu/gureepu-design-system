@@ -160,7 +160,7 @@
   },
   "accent": {
     "default": {
-      "value": "{colors.red.500}",
+      "value": "{colors.orange.500}",
       "type": "color"
     },
     "onAccent": {
