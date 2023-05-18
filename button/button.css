@@ -1,0 +1,13 @@
+.btn {
+  background-color: var(--figma-button-primary-background);
+  color: var(--figma-button-primary-text);
+  padding: var(--figma-border-radius-lg) var(--figma-border-radius-xl);
+  border-radius: var(--figma-border-radius-lg);
+  font-size: var(--figma-font-sizes-h6);
+  border: none;
+}
+
+.btn:hover {
+  background-color: var(--figma-button-hover-background);
+  color: var(--figma-button-primary-text);
+}

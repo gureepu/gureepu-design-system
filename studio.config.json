@@ -4,16 +4,29 @@
     "menu": [
       [
         "TOKENS",
-        []
+        [
+          "tokens"
+        ]
       ],
       [
         "COMPONENTS",
-        []
+        [
+          "button"
+        ]
       ],
       [
         "INFRASTRUCTURE",
-        []
-      ]
+        [
+          "sd-input"
+        ]
+      ],
+      "button"
     ]
+  },
+  "dependencies": {
+    "autoInstall": false
+  },
+  "doc": {
+    "markdownEngine": "mdjs"
   }
 }
