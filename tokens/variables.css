@@ -3,7 +3,7 @@
  */
 
 :root {
-  --figma-button-primary-background: #ed64a6;
+  --figma-button-primary-background: #f56565;
   --figma-button-primary-text: #ffffff;
   --figma-button-primary-new: #4299e1;
   --figma-button-border-radius: 8px;
@@ -11,7 +11,7 @@
   --figma-button-hover-background: #9c4221;
   --figma-button-hover-text: #fffaf0;
   --figma-card-border-radius: 8px;
-  --figma-card-background: #000000;
+  --figma-card-background: #ffffff;
   --figma-card-padding: 4px * 2px * 2px;
   --figma-box-shadow-default: [object Object],[object Object];
   --figma-typography-h1-bold: [object Object];
@@ -19,16 +19,16 @@
   --figma-typography-h2-bold: [object Object];
   --figma-typography-h2-regular: [object Object];
   --figma-typography-body: [object Object];
-  --figma-fg-default: #ffffff;
-  --figma-fg-muted: #e2e8f0;
+  --figma-fg-default: #000000;
+  --figma-fg-muted: #4a5568;
   --figma-fg-subtle: #a0aec0;
-  --figma-bg-default: #000000;
-  --figma-bg-muted: #4a5568;
-  --figma-bg-subtle: #2d3748;
-  --figma-accent-default: #ed64a6;
+  --figma-bg-default: #ffffff;
+  --figma-bg-muted: #f7fafc;
+  --figma-bg-subtle: #edf2f7;
+  --figma-accent-default: #f56565;
   --figma-accent-on-accent: #ffffff;
-  --figma-accent-bg: #434190;
-  --figma-shadows-default: rgba(#000000, 0.3);
+  --figma-accent-bg: #c3dafe;
+  --figma-shadows-default: #1a202c;
   --figma-dimension-scale: 2px;
   --figma-dimension-xs: 4px;
   --figma-dimension-sm: 4px * 2px;
@@ -163,7 +163,7 @@
   --figma-font-sizes-sm: 16 * 0.85;
   --figma-font-sizes-xs: 16 * 0.65;
   --figma-token-set-order-0: core;
-  --figma-token-set-order-1: light;
-  --figma-token-set-order-2: dark;
+  --figma-token-set-order-1: dark;
+  --figma-token-set-order-2: light;
   --figma-token-set-order-3: theme;
 }
