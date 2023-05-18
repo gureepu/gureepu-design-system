@@ -609,7 +609,7 @@
     },
     "accent": {
       "default": {
-        "value": "{colors.pink.500}",
+        "value": "{colors.purple.500}",
         "type": "color"
       },
       "onAccent": {
