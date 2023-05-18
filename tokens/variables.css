@@ -3,7 +3,7 @@
  */
 
 :root {
-  --figma-button-primary-background: #f56565;
+  --figma-button-primary-background: #ed8936;
   --figma-button-primary-text: #ffffff;
   --figma-button-primary-new: #4299e1;
   --figma-button-border-radius: 8px;
@@ -25,7 +25,7 @@
   --figma-bg-default: #ffffff;
   --figma-bg-muted: #f7fafc;
   --figma-bg-subtle: #edf2f7;
-  --figma-accent-default: #f56565;
+  --figma-accent-default: #ed8936;
   --figma-accent-on-accent: #ffffff;
   --figma-accent-bg: #c3dafe;
   --figma-shadows-default: #1a202c;
